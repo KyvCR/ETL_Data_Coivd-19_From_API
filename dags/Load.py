@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 # load raw data
 
-
+#inserting data dari function cleansing ke dalam database mysql, dari pandas dataframe ke DB Mysql
 def insert_raw_data():
     data = cleansing()
     data_df = pd.read_json(data, convert_dates=['Last Update'])
