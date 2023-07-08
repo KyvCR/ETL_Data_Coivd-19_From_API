@@ -14,7 +14,8 @@ data yang didapatkan pada bersumber dari website [covid-19.dataflowkit.com](http
 pada ariflow saya membuat simpel DAG jadi mulai dari melakukan pengambilan data, Cleansing data kemudian lansung dimasukan kedalam database, kemudian baru melalukan Transformasi di dalam database 
 
 
-![image](https://github.com/KyvCR/ELT_Coivd-19/assets/127940133/03319014-131b-4a90-8797-6d3101cd8434)
+![image](https://github.com/KyvCR/ELT_Coivd-19/assets/127940133/bd7e8fba-c19f-4975-b6b0-5c557deb5251)
+
 
 # Data pipeline
 Gambara system data pipeline
